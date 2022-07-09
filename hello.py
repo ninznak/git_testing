@@ -1,1 +1,1 @@
-print("Privet hexrist")
+print("Privet Nexrist!!!")
