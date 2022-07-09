@@ -1,1 +1,1 @@
-ptint('Привет нехристь!!!')
+print("Privet hexrist")
